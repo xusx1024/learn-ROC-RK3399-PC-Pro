@@ -50,3 +50,9 @@ learn-ROC-RK3399-PC-Pro
 ## 🤝 参与贡献
 
 如果您在 ROC-RK3399-PC Pro 的开发实践中也遇到了有趣的坑，或者发现了文档中有描述不准确的地方，欢迎提交 Issues 或 Pull Requests 共同完善这本实战手册！
+
+---
+
+## 💖 特别致谢 / Acknowledgements
+
+特别感谢优秀的 Chrome 浏览器插件 **[WebInk - Intelligent Web-to-Markdown Converter](https://chromewebstore.google.com/detail/webink-intelligent-web-to/lhifbnmampdmdadbhpeeoikkljhiaohn)**。该工具智能化地将官方 HTML 网页无损且极其快速地转换为高质量的 Markdown 格式，为本仓库所有离线文档的排版美化及 AI 辅助上下文交互奠定了扎实的数据基础。极力推荐给所有需要高效率整理技术文档、建立个人知识库的开发者！
